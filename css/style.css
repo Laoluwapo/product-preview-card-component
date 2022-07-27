@@ -20,7 +20,6 @@ html {
 .card {
     background: #fff;
     border-radius: 1rem;
-    width: 100%;
     max-width: 343px;
     overflow: hidden;
     display: grid;
